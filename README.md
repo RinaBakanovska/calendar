@@ -27,4 +27,4 @@ def show_datetime():
     current_datetime = datetime.datetime.now()
     datetime_label.config(text=f"Поточна дата і час: {current_datetime}")
 
-# Залишок коду програми
+# Код програми знаходиться в гілці "master"
